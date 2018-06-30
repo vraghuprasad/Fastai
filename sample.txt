@@ -1,2 +1,3 @@
 def my_func (x,y):
 	return X*y # Multiplication
+	return x/y # Division
